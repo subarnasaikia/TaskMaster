@@ -14,7 +14,7 @@ TaskMaster is a simple and efficient To-Do List web application created using Dj
 ### Prerequisites
 
 - Python 3.6+
-- Django 4.0+
+- Django 3.0+
 - Git
 
 ### Steps
